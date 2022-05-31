@@ -1,6 +1,6 @@
-site_name: your_site_name
-site_description: A cool description
-site_url: https://mara-li.github.io/obsidian-mkdocs-publisher-template/
+site_name: Fred's Digital Garden
+site_description: Enjoy it.
+site_url: https://fred1357944.github.io/DigitalGarden/
 
 theme:
     name: 'material'
